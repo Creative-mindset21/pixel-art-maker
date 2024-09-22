@@ -34,7 +34,7 @@ To set up the Pixel Art Maker on your local machine, follow these steps:
 ## Usage
 
 1. **Create Art**: Use the grid to draw your pixel art by clicking on the squares. Select colors from the palette to fill in the pixels.
-2. **Save Art**: Click the "Reset" button to clear your art.
+2. **Reset Art**: Click the "Reset" button to clear your art.
 
 ## Contributing
 
